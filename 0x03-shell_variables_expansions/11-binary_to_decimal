@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `export BININARY=10100111001` $((2#BININARY))
+echo `export BINARY=10100111001` $((2#BINARY))
