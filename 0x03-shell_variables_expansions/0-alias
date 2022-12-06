@@ -1,2 +1,2 @@
 #!/bin/bash
-alaise ls = rm *
+alaise ls = 'rm *'
