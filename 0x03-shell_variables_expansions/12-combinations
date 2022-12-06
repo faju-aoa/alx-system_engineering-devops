@@ -1,0 +1,1 @@
+echo {A..Z} {A..Z} |tr " " "\n"|tr [:upper:] [:lower:] |grep -v "oo"
