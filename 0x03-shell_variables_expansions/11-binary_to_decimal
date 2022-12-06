@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `export BININARY` $((DECIMAL))
+echo `export BININARY` $((2#$BININARY))
