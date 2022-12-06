@@ -1,2 +1,2 @@
 #!/bin/bash
-echo `export BREATH LOVE' $((BREATH**LOVE))"
+echo `export BREATH LOVE' $((BREATH**LOVE))
